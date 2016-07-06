@@ -1,5 +1,5 @@
 # chipKIT-core-prebuilt
-prebuilt core files for chipkit and the Arduino 1.6.4+ environment
+prebuilt core files for chipkit and the Arduino 1.6.5 environment
 
 Find the core for your OS.
 Put the file 'chipkit-core' for your OS into the following place
